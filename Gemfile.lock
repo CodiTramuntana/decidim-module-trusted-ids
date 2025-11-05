@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    decidim-trusted_ids (0.6.0)
+    decidim-trusted_ids (0.7.0)
       decidim (>= 0.27.0, < 0.28)
       decidim-core (>= 0.27.0, < 0.28)
       decidim-verifications (>= 0.27.0, < 0.28)
